@@ -1,5 +1,5 @@
 # LAPORAN PROYEK SERVER WEBSITE MENGGUNAKAN NGINX & GITHUB
-*1. Perkenalan Kelompok*
+# 1. Perkenalan Kelompok
 Proyek ini diselesaikan oleh Kelompok [Begonia] yang terdiri dari:
 - Desi Novta Azizah L 
 - Fajri Abdul Rozak
