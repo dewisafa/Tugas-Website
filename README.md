@@ -1,4 +1,9 @@
-# LAPORAN PEMBUATAN SERVER WEBSITE MENGGUNAKAN NGINX
-laporan ini menjelaskan tahapan menginstal webserver sampai uji coba, kelebihan dan kekurangan webserver yang dibuat dan masalah dan solusi yang kami alami.
-
-# 1. MENGINSTAL WEBSERVER NGINX
+# LAPORAN PROYEK SERVER WEBSITE MENGGUNAKAN NGINX & GITHUB
+*1. Perkenalan Kelompok*
+Proyek ini diselesaikan oleh Kelompok [Begonia] yang terdiri dari:
+- Desi Novta Azizah L 
+- Fajri Abdul Rozak
+- Saskia Purnama Sari 
+- Windi Rosdianti
+  
+Kelompok bekerja sama untuk membangun server website menggunakan Nginx, dengan GitHub sebagai sumber pengelolaan kode (version control).
